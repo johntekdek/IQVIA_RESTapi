@@ -3,7 +3,7 @@ Contact Management REST Api.
 
 # Installing
 ```
-cd haysApp
+cd IQVIA_RESTapi
 pip install requirements.txt
 python run.py
 ```
